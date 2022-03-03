@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @JFSvensson
 - 👀 I’m interested in astronomy, journalism, gaming and science fiction. 
-- 🌱 I’m currently learning html, css and javascript.
+- 🌱 I’m currently learning html, css and javascript with a dash of java for app-development.
